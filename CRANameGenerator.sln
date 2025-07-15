@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRANameGeneratorUI", "CRANameGeneratorUI\CRANameGeneratorUI.csproj", "{23120C02-6DAC-4083-A23A-C3B4676FDFDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRANameGeneratorLib", "CRANameGeneratorLib\CRANameGeneratorLib.csproj", "{9E128BE0-25B2-4F67-9D1B-1FCEE334E826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23120C02-6DAC-4083-A23A-C3B4676FDFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23120C02-6DAC-4083-A23A-C3B4676FDFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23120C02-6DAC-4083-A23A-C3B4676FDFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23120C02-6DAC-4083-A23A-C3B4676FDFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E128BE0-25B2-4F67-9D1B-1FCEE334E826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E128BE0-25B2-4F67-9D1B-1FCEE334E826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E128BE0-25B2-4F67-9D1B-1FCEE334E826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E128BE0-25B2-4F67-9D1B-1FCEE334E826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00EC0DA9-80A6-45C4-93AA-3DC7AFF8661F}
+	EndGlobalSection
+EndGlobal
